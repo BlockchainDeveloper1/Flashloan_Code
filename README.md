@@ -33,4 +33,12 @@ b. Hardhat or Foundry for smart contract development
 
 c. MetaMask for transactions
 
-d. Alchemy or Infura for an Ethereum RPC provider</p></b>
+d. Alchemy or Infura for an Ethereum RPC provider
+
+4. Execute a Flash Loan Strategy : You need a profitable use case, such as:
+
+a. Arbitrage: Buy from a cheaper exchange and sell at a higher price.
+
+b. Liquidation: Repay a loan to earn a fee.
+
+c. Yield Farming Optimization: Move funds between protocols.</p></b>
