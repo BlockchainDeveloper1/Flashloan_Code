@@ -41,4 +41,13 @@ a. Arbitrage: Buy from a cheaper exchange and sell at a higher price.
 
 b. Liquidation: Repay a loan to earn a fee.
 
-c. Yield Farming Optimization: Move funds between protocols.</p></b>
+c. Yield Farming Optimization: Move funds between protocols.
+
+5. Risks & Considerations
+
+a.High gas fees: $20–$30 might not be enough for mainnet transactions.
+
+b. Slippage & MEV attacks: Bots might front-run your trade.
+
+c. Failed transactions: If your trade isn’t profitable, the transaction will fail.
+</p></b>
