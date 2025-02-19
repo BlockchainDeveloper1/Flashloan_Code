@@ -50,4 +50,11 @@ a.High gas fees: $20–$30 might not be enough for mainnet transactions.
 b. Slippage & MEV attacks: Bots might front-run your trade.
 
 c. Failed transactions: If your trade isn’t profitable, the transaction will fail.
-</p></b>
+
+6. Recommended Approach for a $20–$30 Budget
+
+a. Start on a testnet to avoid losing funds.
+
+b. Use Polygon, Arbitrum, or BSC (lower gas fees).
+
+c. Consider simulation tools (e.g., Flashbots, Tenderly) before real execution.</p></b>
