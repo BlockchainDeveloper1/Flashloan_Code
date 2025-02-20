@@ -57,4 +57,8 @@ a. Start on a testnet to avoid losing funds.
 
 b. Use Polygon, Arbitrum, or BSC (lower gas fees).
 
-c. Consider simulation tools (e.g., Flashbots, Tenderly) before real execution.</p></b>
+c. Consider simulation tools (e.g., Flashbots, Tenderly) before real execution.
+
+7. Final Advice
+
+a. </p></b>
