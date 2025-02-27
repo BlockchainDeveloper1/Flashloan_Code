@@ -61,4 +61,6 @@ c. Consider simulation tools (e.g., Flashbots, Tenderly) before real execution.
 
 7. Final Advice
 
-a. Start on testnets (Goerli, Sepolia) to practice.</p></b>
+a. Start on testnets (Goerli, Sepolia) to practice.
+
+b. </p></b>
