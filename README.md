@@ -63,4 +63,4 @@ c. Consider simulation tools (e.g., Flashbots, Tenderly) before real execution.
 
 a. Start on testnets (Goerli, Sepolia) to practice.
 
-b. </p></b>
+b. Consider</p></b>
