@@ -63,4 +63,6 @@ c. Consider simulation tools (e.g., Flashbots, Tenderly) before real execution.
 
 a. Start on testnets (Goerli, Sepolia) to practice.
 
-b. Consider Polygon/BSC for real trades to reduce costs.</p></b>
+b. Consider Polygon/BSC for real trades to reduce costs.
+
+c. </p></b>
