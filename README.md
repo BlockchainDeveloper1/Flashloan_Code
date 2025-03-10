@@ -65,4 +65,4 @@ a. Start on testnets (Goerli, Sepolia) to practice.
 
 b. Consider Polygon/BSC for real trades to reduce costs.
 
-c. Use </p></b>
+c. Use tools </p></b>
